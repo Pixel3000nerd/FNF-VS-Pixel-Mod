@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pixel_FNF_assetss">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pixel Down Note0000" x="0" y="0" width="518" height="607" pivotX="-484.9" pivotY="242.35" frameX="-11" frameY="0" frameWidth="529" frameHeight="608"/>
+	<SubTexture name="Pixel Down Note0001" x="0" y="0" width="518" height="607" frameX="-11" frameY="0" frameWidth="529" frameHeight="608"/>
+	<SubTexture name="Pixel Down Note0002" x="518" y="0" width="529" height="606" frameX="0" frameY="-2" frameWidth="529" frameHeight="608"/>
+	<SubTexture name="Pixel Down Note0003" x="518" y="0" width="529" height="606" frameX="0" frameY="-2" frameWidth="529" frameHeight="608"/>
+	<SubTexture name="Pixel Down Note0004" x="518" y="0" width="529" height="606" frameX="0" frameY="-2" frameWidth="529" frameHeight="608"/>
+	<SubTexture name="Pixel Down Note0005" x="518" y="0" width="529" height="606" frameX="0" frameY="-2" frameWidth="529" frameHeight="608"/>
+	<SubTexture name="Pixel Down Note0006" x="518" y="0" width="529" height="606" frameX="0" frameY="-2" frameWidth="529" frameHeight="608"/>
+	<SubTexture name="Pixel Down Note0007" x="518" y="0" width="529" height="606" frameX="0" frameY="-2" frameWidth="529" frameHeight="608"/>
+	<SubTexture name="Pixel Down Note0008" x="518" y="0" width="529" height="606" frameX="0" frameY="-2" frameWidth="529" frameHeight="608"/>
+	<SubTexture name="Pixel Down Note0009" x="518" y="0" width="529" height="606" frameX="0" frameY="-2" frameWidth="529" frameHeight="608"/>
+	<SubTexture name="Pixel Down Note0010" x="518" y="0" width="529" height="606" frameX="0" frameY="-2" frameWidth="529" frameHeight="608"/>
+	<SubTexture name="Pixel Down Note0011" x="518" y="0" width="529" height="606" frameX="0" frameY="-2" frameWidth="529" frameHeight="608"/>
+	<SubTexture name="Pixel Down Note0012" x="518" y="0" width="529" height="606" frameX="0" frameY="-2" frameWidth="529" frameHeight="608"/>
+	<SubTexture name="Pixel Down Note0013" x="518" y="0" width="529" height="606" frameX="0" frameY="-2" frameWidth="529" frameHeight="608"/>
+	<SubTexture name="Pixel Down Note0014" x="518" y="0" width="529" height="606" frameX="0" frameY="-2" frameWidth="529" frameHeight="608"/>
+	<SubTexture name="Pixel Down Note0015" x="518" y="0" width="529" height="606" frameX="0" frameY="-2" frameWidth="529" frameHeight="608"/>
+	<SubTexture name="Pixel Down Note0016" x="518" y="0" width="529" height="606" frameX="0" frameY="-2" frameWidth="529" frameHeight="608"/>
+	<SubTexture name="Pixel Idle Dance0000" x="1047" y="0" width="549" height="691" pivotX="-509.9" pivotY="358.25" frameX="0" frameY="-27" frameWidth="549" frameHeight="718"/>
+	<SubTexture name="Pixel Idle Dance0001" x="1047" y="0" width="549" height="691" frameX="0" frameY="-27" frameWidth="549" frameHeight="718"/>
+	<SubTexture name="Pixel Idle Dance0002" x="1596" y="0" width="541" height="697" frameX="-8" frameY="-21" frameWidth="549" frameHeight="718"/>
+	<SubTexture name="Pixel Idle Dance0003" x="1596" y="0" width="541" height="697" frameX="-8" frameY="-21" frameWidth="549" frameHeight="718"/>
+	<SubTexture name="Pixel Idle Dance0004" x="2137" y="0" width="529" height="706" frameX="-19" frameY="-11" frameWidth="549" frameHeight="718"/>
+	<SubTexture name="Pixel Idle Dance0005" x="2137" y="0" width="529" height="706" frameX="-19" frameY="-11" frameWidth="549" frameHeight="718"/>
+	<SubTexture name="Pixel Idle Dance0006" x="2666" y="0" width="527" height="716" frameX="-21" frameY="-1" frameWidth="549" frameHeight="718"/>
+	<SubTexture name="Pixel Idle Dance0007" x="2666" y="0" width="527" height="716" frameX="-21" frameY="-1" frameWidth="549" frameHeight="718"/>
+	<SubTexture name="Pixel Idle Dance0008" x="3193" y="0" width="528" height="717" frameX="-20" frameY="0" frameWidth="549" frameHeight="718"/>
+	<SubTexture name="Pixel Idle Dance0009" x="3193" y="0" width="528" height="717" frameX="-20" frameY="0" frameWidth="549" frameHeight="718"/>
+	<SubTexture name="Pixel Idle Dance0010" x="3193" y="0" width="528" height="717" frameX="-20" frameY="0" frameWidth="549" frameHeight="718"/>
+	<SubTexture name="Pixel Idle Dance0011" x="3193" y="0" width="528" height="717" frameX="-20" frameY="0" frameWidth="549" frameHeight="718"/>
+	<SubTexture name="Pixel Idle Dance0012" x="3193" y="0" width="528" height="717" frameX="-20" frameY="0" frameWidth="549" frameHeight="718"/>
+	<SubTexture name="Pixel Idle Dance0013" x="3193" y="0" width="528" height="717" frameX="-20" frameY="0" frameWidth="549" frameHeight="718"/>
+	<SubTexture name="Pixel Note Right0000" x="0" y="717" width="552" height="703" pivotX="-504.5" pivotY="352.7" frameX="-16" frameY="-2" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0001" x="0" y="717" width="552" height="703" frameX="-16" frameY="-2" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0002" x="552" y="717" width="566" height="705" frameX="0" frameY="0" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0003" x="552" y="717" width="566" height="705" frameX="0" frameY="0" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0004" x="552" y="717" width="566" height="705" frameX="0" frameY="0" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0005" x="552" y="717" width="566" height="705" frameX="0" frameY="0" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0006" x="552" y="717" width="566" height="705" frameX="0" frameY="0" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0007" x="552" y="717" width="566" height="705" frameX="0" frameY="0" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0008" x="552" y="717" width="566" height="705" frameX="0" frameY="0" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0009" x="552" y="717" width="566" height="705" frameX="0" frameY="0" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0010" x="552" y="717" width="566" height="705" frameX="0" frameY="0" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0011" x="552" y="717" width="566" height="705" frameX="0" frameY="0" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0012" x="552" y="717" width="566" height="705" frameX="0" frameY="0" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0013" x="552" y="717" width="566" height="705" frameX="0" frameY="0" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0014" x="552" y="717" width="566" height="705" frameX="0" frameY="0" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0015" x="552" y="717" width="566" height="705" frameX="0" frameY="0" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0016" x="552" y="717" width="566" height="705" frameX="0" frameY="0" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0017" x="1118" y="717" width="0" height="0" frameX="504" frameY="-352" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0018" x="1118" y="717" width="0" height="0" frameX="504" frameY="-352" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0019" x="1118" y="717" width="0" height="0" frameX="504" frameY="-352" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0020" x="1118" y="717" width="0" height="0" frameX="504" frameY="-352" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0021" x="1118" y="717" width="0" height="0" frameX="504" frameY="-352" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0022" x="1118" y="717" width="0" height="0" frameX="504" frameY="-352" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0023" x="1118" y="717" width="0" height="0" frameX="504" frameY="-352" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0024" x="1118" y="717" width="0" height="0" frameX="504" frameY="-352" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0025" x="1118" y="717" width="0" height="0" frameX="504" frameY="-352" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0026" x="1118" y="717" width="0" height="0" frameX="504" frameY="-352" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0027" x="1118" y="717" width="0" height="0" frameX="504" frameY="-352" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0028" x="1118" y="717" width="0" height="0" frameX="504" frameY="-352" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0029" x="1118" y="717" width="0" height="0" frameX="504" frameY="-352" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note Right0030" x="1118" y="717" width="0" height="0" frameX="504" frameY="-352" frameWidth="568" frameHeight="705"/>
+	<SubTexture name="Pixel Note left0000" x="1118" y="717" width="545" height="720" pivotX="-492.7" pivotY="362.05" frameX="0" frameY="0" frameWidth="551" frameHeight="720"/>
+	<SubTexture name="Pixel Note left0001" x="1118" y="717" width="545" height="720" frameX="0" frameY="0" frameWidth="551" frameHeight="720"/>
+	<SubTexture name="Pixel Note left0002" x="1663" y="717" width="541" height="719" frameX="-10" frameY="-1" frameWidth="551" frameHeight="720"/>
+	<SubTexture name="Pixel Note left0003" x="1663" y="717" width="541" height="719" frameX="-10" frameY="-1" frameWidth="551" frameHeight="720"/>
+	<SubTexture name="Pixel Note left0004" x="1663" y="717" width="541" height="719" frameX="-10" frameY="-1" frameWidth="551" frameHeight="720"/>
+	<SubTexture name="Pixel Note left0005" x="1663" y="717" width="541" height="719" frameX="-10" frameY="-1" frameWidth="551" frameHeight="720"/>
+	<SubTexture name="Pixel Note left0006" x="1663" y="717" width="541" height="719" frameX="-10" frameY="-1" frameWidth="551" frameHeight="720"/>
+	<SubTexture name="Pixel Note left0007" x="1663" y="717" width="541" height="719" frameX="-10" frameY="-1" frameWidth="551" frameHeight="720"/>
+	<SubTexture name="Pixel Note left0008" x="1663" y="717" width="541" height="719" frameX="-10" frameY="-1" frameWidth="551" frameHeight="720"/>
+	<SubTexture name="Pixel Note left0009" x="1663" y="717" width="541" height="719" frameX="-10" frameY="-1" frameWidth="551" frameHeight="720"/>
+	<SubTexture name="Pixel Note left0010" x="1663" y="717" width="541" height="719" frameX="-10" frameY="-1" frameWidth="551" frameHeight="720"/>
+	<SubTexture name="Pixel Note left0011" x="1663" y="717" width="541" height="719" frameX="-10" frameY="-1" frameWidth="551" frameHeight="720"/>
+	<SubTexture name="Pixel Note left0012" x="1663" y="717" width="541" height="719" frameX="-10" frameY="-1" frameWidth="551" frameHeight="720"/>
+	<SubTexture name="Pixel Note left0013" x="1663" y="717" width="541" height="719" frameX="-10" frameY="-1" frameWidth="551" frameHeight="720"/>
+	<SubTexture name="Pixel Note left0014" x="1663" y="717" width="541" height="719" frameX="-10" frameY="-1" frameWidth="551" frameHeight="720"/>
+	<SubTexture name="Pixel Note left0015" x="1663" y="717" width="541" height="719" frameX="-10" frameY="-1" frameWidth="551" frameHeight="720"/>
+	<SubTexture name="Pixel Note left0016" x="1663" y="717" width="541" height="719" frameX="-10" frameY="-1" frameWidth="551" frameHeight="720"/>
+	<SubTexture name="Pixel Up note0000" x="2204" y="717" width="602" height="749" pivotX="-533.65" pivotY="393" frameX="-2" frameY="0" frameWidth="604" frameHeight="749"/>
+	<SubTexture name="Pixel Up note0001" x="2204" y="717" width="602" height="749" frameX="-2" frameY="0" frameWidth="604" frameHeight="749"/>
+	<SubTexture name="Pixel Up note0002" x="2806" y="717" width="604" height="744" frameX="0" frameY="-5" frameWidth="604" frameHeight="749"/>
+	<SubTexture name="Pixel Up note0003" x="2806" y="717" width="604" height="744" frameX="0" frameY="-5" frameWidth="604" frameHeight="749"/>
+	<SubTexture name="Pixel Up note0004" x="2806" y="717" width="604" height="744" frameX="0" frameY="-5" frameWidth="604" frameHeight="749"/>
+	<SubTexture name="Pixel Up note0005" x="2806" y="717" width="604" height="744" frameX="0" frameY="-5" frameWidth="604" frameHeight="749"/>
+	<SubTexture name="Pixel Up note0006" x="2806" y="717" width="604" height="744" frameX="0" frameY="-5" frameWidth="604" frameHeight="749"/>
+	<SubTexture name="Pixel Up note0007" x="2806" y="717" width="604" height="744" frameX="0" frameY="-5" frameWidth="604" frameHeight="749"/>
+	<SubTexture name="Pixel Up note0008" x="2806" y="717" width="604" height="744" frameX="0" frameY="-5" frameWidth="604" frameHeight="749"/>
+	<SubTexture name="Pixel Up note0009" x="2806" y="717" width="604" height="744" frameX="0" frameY="-5" frameWidth="604" frameHeight="749"/>
+	<SubTexture name="Pixel Up note0010" x="2806" y="717" width="604" height="744" frameX="0" frameY="-5" frameWidth="604" frameHeight="749"/>
+	<SubTexture name="Pixel Up note0011" x="2806" y="717" width="604" height="744" frameX="0" frameY="-5" frameWidth="604" frameHeight="749"/>
+	<SubTexture name="Pixel Up note0012" x="2806" y="717" width="604" height="744" frameX="0" frameY="-5" frameWidth="604" frameHeight="749"/>
+	<SubTexture name="Pixel Up note0013" x="2806" y="717" width="604" height="744" frameX="0" frameY="-5" frameWidth="604" frameHeight="749"/>
+	<SubTexture name="Pixel Up note0014" x="2806" y="717" width="604" height="744" frameX="0" frameY="-5" frameWidth="604" frameHeight="749"/>
+	<SubTexture name="Pixel Up note0015" x="2806" y="717" width="604" height="744" frameX="0" frameY="-5" frameWidth="604" frameHeight="749"/>
+	<SubTexture name="Pixel Up note0016" x="2806" y="717" width="604" height="744" frameX="0" frameY="-5" frameWidth="604" frameHeight="749"/>
+</TextureAtlas>
