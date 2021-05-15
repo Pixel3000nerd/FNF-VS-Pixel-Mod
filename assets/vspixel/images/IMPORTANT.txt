@@ -1,3 +1,0 @@
-There needs to be a file here named "vspixel-glitch.png". I couldn't upload it to GitHub due to their 25 MB file size limit.
-
-You can download the file here: https://drive.google.com/file/d/16zR3sAjn_u_a9X5MdI3C2mCHolEDUauv/view?usp=sharing
