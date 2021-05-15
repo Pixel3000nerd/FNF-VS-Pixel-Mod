@@ -1,5 +1,8 @@
 # Friday Night Funkin' - VS Pixel Mod (Kade Engine 1.4)
 
+![image](https://raw.githubusercontent.com/Pixel3000nerd/FNF---VS-Pixel-Mod/main/VS%20Pixel%20-%20Title.png)
+![image](https://raw.githubusercontent.com/Pixel3000nerd/FNF---VS-Pixel-Mod/main/VS%20Pixel%20-%20Gameplay.png)
+
 A Friday Night Funkin' modification for the VS Pixel full week story mode, using the Kade Engine mod.
 
 Mod Page: https://gamebanana.com/mods/286516
