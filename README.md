@@ -14,10 +14,6 @@ Mod Page: https://gamebanana.com/mods/286516
 - [RaenyVisualz](https://twitter.com/RaenyVisualz) - Artist / Animator
 - [SilvaTwiliQular](https://twitter.com/SilvaTwiliQular) - BG Artist
 
-## IMPORTANT NOTE IF COMPILING
-
-**I AM NEW TO USING GITHUB. I HAD TO UPLOAD ALL MY FILES ONE BY ONE IN BROWSER AS I DON'T KNOW HOW TO USE THIS PLATFORM. AS A CONSEQUENCE, ONE OF MY ASSETS COULDN'T BE UPLOADED DUE TO IT BEING BIGGER THAN 25MB (GITHUB'S LIMIT). IF YOU WISH TO COMPILE THE GAME FROM THIS MESSY REPOSITORY, MAKE SURE TO FIRST [DOWNLOAD THIS SPECIFIC ASSET](https://drive.google.com/file/d/16zR3sAjn_u_a9X5MdI3C2mCHolEDUauv/view?usp=sharing) AND SAVE IT IN (assets/vspixel/images)**
-
 [Compiling instructions](https://github.com/ninjamuffin99/Funkin#build-instructions)
 
 ## Friday Night Funkin'
